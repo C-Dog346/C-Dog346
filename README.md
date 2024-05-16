@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C# & .NET for my big R&D paper at uni, developing a LiveOps tool. 
 - 💞️ I’m keen to contribute to open source projects - just get in touch!
 - 📫 How to reach me: 
- -> Email: callum@clow.net.nz.
- -> LinkedIn: https://www.linkedin.com/in/callum-clow-8731a3232
+-> Email: callum@clow.net.nz
+-> LinkedIn: [https://www.linkedin.com/in/callum-clow-8731a3232](https://www.linkedin.com/in/callum-clow/)
 
 <!---
 C-Dog346/C-Dog346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
