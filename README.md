@@ -4,8 +4,8 @@
 - 💞️ I’m keen to contribute to open source projects - just get in touch!
 - 📫 How to reach me:
 
--> Email: callum@clow.net.nz
--> LinkedIn: https://www.linkedin.com/in/callum-clow
+-> Email: callum@clow.net.nz  
+-> LinkedIn: https://www.linkedin.com/in/callum-clow  
 
 
 <!---
