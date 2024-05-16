@@ -4,7 +4,7 @@
 - 💞️ I’m keen to contribute to open source projects - just get in touch!
 - 📫 How to reach me: 
 -> Email: callum@clow.net.nz
--> LinkedIn: [https://www.linkedin.com/in/callum-clow-8731a3232](https://www.linkedin.com/in/callum-clow/)
+-> LinkedIn: https://www.linkedin.com/in/callum-clow
 
 <!---
 C-Dog346/C-Dog346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
