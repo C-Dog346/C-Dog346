@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @C-Dog346
-- 👀 I’m interested in full stack software development, with an focus on using the right tools for the job.
-- 🌱 I’m currently learning C# & .NET for my big R&D paper at uni, developing a LiveOps tool. 
+- 👀 I’m interested in full stack software development and learning better ways to solve old problems.
+- 🌱 I’m currently foucsing on TypeScript web development.
 - 💞️ I’m keen to contribute to open source projects - just get in touch!
 - 📫 How to reach me:
 
--> Email: callum@clow.net.nz  
+-> Email: callum@clow.nz  
 -> LinkedIn: https://www.linkedin.com/in/callum-clow  
 
 
